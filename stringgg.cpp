@@ -7,3 +7,5 @@ int main(){
       cout<<"This string is: "<<arr<<endl;
       return 0;
 }
+//character is more memory consume so it required for the
+//the string.
